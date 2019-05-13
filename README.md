@@ -1,4 +1,4 @@
-# Salem Early Beta
+# React Work
 ## Navigating the code
 To find the HTML code and how HTML was used to build this site through JSX, navigate to the /src/components folder and open any file. Inside the file find the render() method and then the return statment inside that method. This is where any HTML code would be located. 
 
